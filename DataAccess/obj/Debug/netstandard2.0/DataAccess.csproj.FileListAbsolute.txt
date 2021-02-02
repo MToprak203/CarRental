@@ -1,0 +1,12 @@
+C:\gitRepos\RepoC#\ReCapProject\DataAccess\bin\Debug\netstandard2.0\DataAccess.deps.json
+C:\gitRepos\RepoC#\ReCapProject\DataAccess\bin\Debug\netstandard2.0\DataAccess.dll
+C:\gitRepos\RepoC#\ReCapProject\DataAccess\bin\Debug\netstandard2.0\DataAccess.pdb
+C:\gitRepos\RepoC#\ReCapProject\DataAccess\bin\Debug\netstandard2.0\Entities.dll
+C:\gitRepos\RepoC#\ReCapProject\DataAccess\bin\Debug\netstandard2.0\Entities.pdb
+C:\gitRepos\RepoC#\ReCapProject\DataAccess\obj\Debug\netstandard2.0\DataAccess.csprojAssemblyReference.cache
+C:\gitRepos\RepoC#\ReCapProject\DataAccess\obj\Debug\netstandard2.0\DataAccess.AssemblyInfoInputs.cache
+C:\gitRepos\RepoC#\ReCapProject\DataAccess\obj\Debug\netstandard2.0\DataAccess.AssemblyInfo.cs
+C:\gitRepos\RepoC#\ReCapProject\DataAccess\obj\Debug\netstandard2.0\DataAccess.csproj.CoreCompileInputs.cache
+C:\gitRepos\RepoC#\ReCapProject\DataAccess\obj\Debug\netstandard2.0\DataAccess.csproj.CopyComplete
+C:\gitRepos\RepoC#\ReCapProject\DataAccess\obj\Debug\netstandard2.0\DataAccess.dll
+C:\gitRepos\RepoC#\ReCapProject\DataAccess\obj\Debug\netstandard2.0\DataAccess.pdb
