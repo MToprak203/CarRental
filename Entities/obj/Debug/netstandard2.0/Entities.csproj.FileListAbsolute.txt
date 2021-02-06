@@ -7,3 +7,12 @@ C:\gitRepos\RepoC#\ReCapProject\Entities\obj\Debug\netstandard2.0\Entities.Assem
 C:\gitRepos\RepoC#\ReCapProject\Entities\obj\Debug\netstandard2.0\Entities.csproj.CoreCompileInputs.cache
 C:\gitRepos\RepoC#\ReCapProject\Entities\obj\Debug\netstandard2.0\Entities.dll
 C:\gitRepos\RepoC#\ReCapProject\Entities\obj\Debug\netstandard2.0\Entities.pdb
+C:\ReCapProject\Entities\bin\Debug\netstandard2.0\Entities.deps.json
+C:\ReCapProject\Entities\bin\Debug\netstandard2.0\Entities.dll
+C:\ReCapProject\Entities\bin\Debug\netstandard2.0\Entities.pdb
+C:\ReCapProject\Entities\obj\Debug\netstandard2.0\Entities.csprojAssemblyReference.cache
+C:\ReCapProject\Entities\obj\Debug\netstandard2.0\Entities.AssemblyInfoInputs.cache
+C:\ReCapProject\Entities\obj\Debug\netstandard2.0\Entities.AssemblyInfo.cs
+C:\ReCapProject\Entities\obj\Debug\netstandard2.0\Entities.csproj.CoreCompileInputs.cache
+C:\ReCapProject\Entities\obj\Debug\netstandard2.0\Entities.dll
+C:\ReCapProject\Entities\obj\Debug\netstandard2.0\Entities.pdb

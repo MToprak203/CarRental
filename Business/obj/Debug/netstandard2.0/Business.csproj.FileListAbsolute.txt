@@ -12,3 +12,17 @@ C:\gitRepos\RepoC#\ReCapProject\Business\obj\Debug\netstandard2.0\Business.cspro
 C:\gitRepos\RepoC#\ReCapProject\Business\obj\Debug\netstandard2.0\Business.csproj.CopyComplete
 C:\gitRepos\RepoC#\ReCapProject\Business\obj\Debug\netstandard2.0\Business.dll
 C:\gitRepos\RepoC#\ReCapProject\Business\obj\Debug\netstandard2.0\Business.pdb
+C:\ReCapProject\Business\bin\Debug\netstandard2.0\Business.deps.json
+C:\ReCapProject\Business\bin\Debug\netstandard2.0\Business.dll
+C:\ReCapProject\Business\bin\Debug\netstandard2.0\Business.pdb
+C:\ReCapProject\Business\bin\Debug\netstandard2.0\DataAccess.dll
+C:\ReCapProject\Business\bin\Debug\netstandard2.0\Entities.dll
+C:\ReCapProject\Business\bin\Debug\netstandard2.0\DataAccess.pdb
+C:\ReCapProject\Business\bin\Debug\netstandard2.0\Entities.pdb
+C:\ReCapProject\Business\obj\Debug\netstandard2.0\Business.csprojAssemblyReference.cache
+C:\ReCapProject\Business\obj\Debug\netstandard2.0\Business.AssemblyInfoInputs.cache
+C:\ReCapProject\Business\obj\Debug\netstandard2.0\Business.AssemblyInfo.cs
+C:\ReCapProject\Business\obj\Debug\netstandard2.0\Business.csproj.CoreCompileInputs.cache
+C:\ReCapProject\Business\obj\Debug\netstandard2.0\Business.csproj.CopyComplete
+C:\ReCapProject\Business\obj\Debug\netstandard2.0\Business.dll
+C:\ReCapProject\Business\obj\Debug\netstandard2.0\Business.pdb
