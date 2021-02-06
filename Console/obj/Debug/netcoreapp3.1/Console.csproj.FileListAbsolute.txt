@@ -1,4 +1,0 @@
-C:\gitRepos\RepoC#\ReCapProject\Console\obj\Debug\netcoreapp3.1\Console.csprojAssemblyReference.cache
-C:\gitRepos\RepoC#\ReCapProject\Console\obj\Debug\netcoreapp3.1\Console.AssemblyInfoInputs.cache
-C:\gitRepos\RepoC#\ReCapProject\Console\obj\Debug\netcoreapp3.1\Console.AssemblyInfo.cs
-C:\gitRepos\RepoC#\ReCapProject\Console\obj\Debug\netcoreapp3.1\Console.csproj.CoreCompileInputs.cache
