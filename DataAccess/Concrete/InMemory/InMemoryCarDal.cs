@@ -1,5 +1,6 @@
 ﻿using DataAccess.Abstract;
 using Entities.Concrete;
+using Entities.DTOs;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -16,10 +17,10 @@ namespace DataAccess.Concrete.InMemory
         {
             _cars = new List<Car>
             {
-                new Car{Id = 1, BrandId = 1, ColorId = 2, DailyPrice = 50000, ModelYear = "2012", Description = "X"},
-                new Car{Id = 2, BrandId = 1, ColorId = 2, DailyPrice = 100000, ModelYear = "2017", Description = "Y"},
-                new Car{Id = 3, BrandId = 2, ColorId = 1, DailyPrice = 75200, ModelYear = "2016", Description = "Z"},
-                new Car{Id = 4, BrandId = 2, ColorId = 3, DailyPrice = 178000, ModelYear = "2019", Description = "T"}
+                new Car{Id = 1, BrandId = 1, ColorId = 2, DailyPrice = 500, CarName = "X", ModelYear = "2012", Description = "X"},
+                new Car{Id = 2, BrandId = 1, ColorId = 2, DailyPrice = 1000, CarName = "Y", ModelYear = "2017", Description = "Y"},
+                new Car{Id = 3, BrandId = 2, ColorId = 1, DailyPrice = 752, CarName = "Z", ModelYear = "2015", Description = "Z"},
+                new Car{Id = 4, BrandId = 2, ColorId = 3, DailyPrice = 178, CarName = "T", ModelYear = "2019", Description = "T"}
             };
         }
 
@@ -52,6 +53,11 @@ namespace DataAccess.Concrete.InMemory
         public Car GetById(int carId)
         {
             return (Car)_cars.SingleOrDefault(c => c.Id == carId);
+        }
+
+        public List<CarDetailDto> GetCarDetails()
+        {
+            throw new NotImplementedException();
         }
 
         public void Update(Car car)

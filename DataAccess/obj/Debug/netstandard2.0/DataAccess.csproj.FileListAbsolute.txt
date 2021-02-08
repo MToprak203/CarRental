@@ -22,3 +22,5 @@ C:\ReCapProject\DataAccess\bin\Debug\netstandard2.0\DataAccess.pdb
 C:\ReCapProject\DataAccess\bin\Debug\netstandard2.0\Entities.dll
 C:\ReCapProject\DataAccess\bin\Debug\netstandard2.0\Entities.pdb
 C:\ReCapProject\DataAccess\obj\Debug\netstandard2.0\DataAccess.csproj.CopyComplete
+C:\ReCapProject\DataAccess\bin\Debug\netstandard2.0\Core.dll
+C:\ReCapProject\DataAccess\bin\Debug\netstandard2.0\Core.pdb

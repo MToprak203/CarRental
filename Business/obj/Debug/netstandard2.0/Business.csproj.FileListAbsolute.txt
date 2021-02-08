@@ -26,3 +26,5 @@ C:\ReCapProject\Business\obj\Debug\netstandard2.0\Business.csproj.CoreCompileInp
 C:\ReCapProject\Business\obj\Debug\netstandard2.0\Business.csproj.CopyComplete
 C:\ReCapProject\Business\obj\Debug\netstandard2.0\Business.dll
 C:\ReCapProject\Business\obj\Debug\netstandard2.0\Business.pdb
+C:\ReCapProject\Business\bin\Debug\netstandard2.0\Core.dll
+C:\ReCapProject\Business\bin\Debug\netstandard2.0\Core.pdb

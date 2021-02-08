@@ -78,3 +78,5 @@ C:\ReCapProject\Test\bin\Debug\netcoreapp3.1\DataAccess.pdb
 C:\ReCapProject\Test\bin\Debug\netcoreapp3.1\Entities.pdb
 C:\ReCapProject\Test\obj\Debug\netcoreapp3.1\Test.csproj.CopyComplete
 C:\ReCapProject\Test\obj\Debug\netcoreapp3.1\Test.genruntimeconfig.cache
+C:\ReCapProject\Test\bin\Debug\netcoreapp3.1\Core.dll
+C:\ReCapProject\Test\bin\Debug\netcoreapp3.1\Core.pdb
