@@ -1,5 +1,4 @@
-﻿using Core.Business.Abstract;
-using Entities.Concrete.Properties;
+﻿using Entities.Concrete.Properties;
 using System;
 using System.Collections.Generic;
 using System.Text;

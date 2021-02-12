@@ -1,5 +1,4 @@
 ﻿using Business.Abstract;
-using Core.Business.Concrete;
 using DataAccess.Abstract;
 using Entities.Concrete.Properties;
 using System;
