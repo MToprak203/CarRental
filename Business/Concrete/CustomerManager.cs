@@ -9,9 +9,8 @@ namespace Business.Concrete
 {
     public class CustomerManager : CrudManager<Customer>, ICustomerService
     {
-        public CustomerManager(ICustomerDal customerDal)
+        public CustomerManager(ICustomerDal customerDal) : base(customerDal)
         {
-            _entityDal = customerDal;
         }
     }
 }

@@ -9,9 +9,8 @@ namespace Business.Concrete
 {
     public class UserManager : CrudManager<User>, IUserService
     {
-        public UserManager(IUserDal userDal)
+        public UserManager(IUserDal userDal) : base(userDal)
         {
-            _entityDal = userDal;
         }
     }
 }

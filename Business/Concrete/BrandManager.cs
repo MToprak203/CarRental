@@ -9,9 +9,8 @@ namespace Business.Concrete
 {
     public class BrandManager : CrudManager<Brand>, IBrandService
     {
-        public BrandManager(IBrandDal brandDal)
+        public BrandManager(IBrandDal brandDal) : base(brandDal)
         {
-            _entityDal = brandDal;
         }
     }
 }

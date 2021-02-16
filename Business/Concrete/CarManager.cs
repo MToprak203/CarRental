@@ -13,9 +13,8 @@ namespace Business.Concrete
     public class CarManager : CrudManager<Car>, ICarService
     {
         ICarDal _carDal;
-        public CarManager(ICarDal carDal)
+        public CarManager(ICarDal carDal) : base (carDal)
         {
-            _entityDal = carDal;
             _carDal = carDal;
         }
 

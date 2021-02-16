@@ -1,5 +1,4 @@
-﻿using Business.Abstract;
-using Business.Constants;
+﻿using Business.Constants;
 using Core.DataAccess.Abstract;
 using Core.Entities;
 using Core.Utilities.Results.Abstract;
@@ -10,10 +9,14 @@ using System.Text;
 
 namespace Business.Concrete
 {
-    public class CrudManager<TEntity> : ICrudService<TEntity>
-        where TEntity : class, IEntity, new()
+    public abstract class CrudManager<TEntity> where TEntity : class, IEntity, new()
     {
         public IEntityRepository<TEntity> _entityDal;
+
+        public CrudManager(IEntityRepository<TEntity> entityDal)
+        {
+            _entityDal = entityDal;
+        }
 
         public virtual IResult Add(TEntity entity)
         {

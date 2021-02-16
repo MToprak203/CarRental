@@ -19,3 +19,15 @@ C:\ReCapProject\Entities\obj\Debug\netstandard2.0\Entities.pdb
 C:\ReCapProject\Entities\bin\Debug\netstandard2.0\Core.dll
 C:\ReCapProject\Entities\bin\Debug\netstandard2.0\Core.pdb
 C:\ReCapProject\Entities\obj\Debug\netstandard2.0\Entities.csproj.CopyComplete
+C:\CarRental\CarRental\Entities\bin\Debug\netstandard2.0\Entities.deps.json
+C:\CarRental\CarRental\Entities\bin\Debug\netstandard2.0\Entities.dll
+C:\CarRental\CarRental\Entities\bin\Debug\netstandard2.0\Entities.pdb
+C:\CarRental\CarRental\Entities\bin\Debug\netstandard2.0\Core.dll
+C:\CarRental\CarRental\Entities\bin\Debug\netstandard2.0\Core.pdb
+C:\CarRental\CarRental\Entities\obj\Debug\netstandard2.0\Entities.csprojAssemblyReference.cache
+C:\CarRental\CarRental\Entities\obj\Debug\netstandard2.0\Entities.AssemblyInfoInputs.cache
+C:\CarRental\CarRental\Entities\obj\Debug\netstandard2.0\Entities.AssemblyInfo.cs
+C:\CarRental\CarRental\Entities\obj\Debug\netstandard2.0\Entities.csproj.CoreCompileInputs.cache
+C:\CarRental\CarRental\Entities\obj\Debug\netstandard2.0\Entities.csproj.CopyComplete
+C:\CarRental\CarRental\Entities\obj\Debug\netstandard2.0\Entities.dll
+C:\CarRental\CarRental\Entities\obj\Debug\netstandard2.0\Entities.pdb

@@ -24,3 +24,17 @@ C:\ReCapProject\DataAccess\bin\Debug\netstandard2.0\Entities.pdb
 C:\ReCapProject\DataAccess\obj\Debug\netstandard2.0\DataAccess.csproj.CopyComplete
 C:\ReCapProject\DataAccess\bin\Debug\netstandard2.0\Core.dll
 C:\ReCapProject\DataAccess\bin\Debug\netstandard2.0\Core.pdb
+C:\CarRental\CarRental\DataAccess\bin\Debug\netstandard2.0\DataAccess.deps.json
+C:\CarRental\CarRental\DataAccess\bin\Debug\netstandard2.0\DataAccess.dll
+C:\CarRental\CarRental\DataAccess\bin\Debug\netstandard2.0\DataAccess.pdb
+C:\CarRental\CarRental\DataAccess\bin\Debug\netstandard2.0\Core.dll
+C:\CarRental\CarRental\DataAccess\bin\Debug\netstandard2.0\Entities.dll
+C:\CarRental\CarRental\DataAccess\bin\Debug\netstandard2.0\Core.pdb
+C:\CarRental\CarRental\DataAccess\bin\Debug\netstandard2.0\Entities.pdb
+C:\CarRental\CarRental\DataAccess\obj\Debug\netstandard2.0\DataAccess.csprojAssemblyReference.cache
+C:\CarRental\CarRental\DataAccess\obj\Debug\netstandard2.0\DataAccess.AssemblyInfoInputs.cache
+C:\CarRental\CarRental\DataAccess\obj\Debug\netstandard2.0\DataAccess.AssemblyInfo.cs
+C:\CarRental\CarRental\DataAccess\obj\Debug\netstandard2.0\DataAccess.csproj.CoreCompileInputs.cache
+C:\CarRental\CarRental\DataAccess\obj\Debug\netstandard2.0\DataAccess.csproj.CopyComplete
+C:\CarRental\CarRental\DataAccess\obj\Debug\netstandard2.0\DataAccess.dll
+C:\CarRental\CarRental\DataAccess\obj\Debug\netstandard2.0\DataAccess.pdb

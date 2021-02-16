@@ -5733,11 +5733,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\ReCapProject\\Test\\Test.csproj",
+      "projectUniqueName": "C:\\CarRental\\CarRental\\Test\\Test.csproj",
       "projectName": "Test",
-      "projectPath": "C:\\ReCapProject\\Test\\Test.csproj",
+      "projectPath": "C:\\CarRental\\CarRental\\Test\\Test.csproj",
       "packagesPath": "C:\\Users\\90533\\.nuget\\packages\\",
-      "outputPath": "C:\\ReCapProject\\Test\\obj\\",
+      "outputPath": "C:\\CarRental\\CarRental\\Test\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\90533\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -5754,14 +5754,14 @@
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
           "projectReferences": {
-            "C:\\ReCapProject\\Business\\Business.csproj": {
-              "projectPath": "C:\\ReCapProject\\Business\\Business.csproj"
+            "C:\\CarRental\\CarRental\\Business\\Business.csproj": {
+              "projectPath": "C:\\CarRental\\CarRental\\Business\\Business.csproj"
             },
-            "C:\\ReCapProject\\DataAccess\\DataAccess.csproj": {
-              "projectPath": "C:\\ReCapProject\\DataAccess\\DataAccess.csproj"
+            "C:\\CarRental\\CarRental\\DataAccess\\DataAccess.csproj": {
+              "projectPath": "C:\\CarRental\\CarRental\\DataAccess\\DataAccess.csproj"
             },
-            "C:\\ReCapProject\\Entities\\Entities.csproj": {
-              "projectPath": "C:\\ReCapProject\\Entities\\Entities.csproj"
+            "C:\\CarRental\\CarRental\\Entities\\Entities.csproj": {
+              "projectPath": "C:\\CarRental\\CarRental\\Entities\\Entities.csproj"
             }
           }
         }
@@ -5790,7 +5790,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.102\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.103\\RuntimeIdentifierGraph.json"
       }
     }
   }

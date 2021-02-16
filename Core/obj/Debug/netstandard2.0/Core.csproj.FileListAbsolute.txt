@@ -7,3 +7,12 @@ C:\ReCapProject\Core\obj\Debug\netstandard2.0\Core.AssemblyInfo.cs
 C:\ReCapProject\Core\obj\Debug\netstandard2.0\Core.csproj.CoreCompileInputs.cache
 C:\ReCapProject\Core\obj\Debug\netstandard2.0\Core.dll
 C:\ReCapProject\Core\obj\Debug\netstandard2.0\Core.pdb
+C:\CarRental\CarRental\Core\bin\Debug\netstandard2.0\Core.deps.json
+C:\CarRental\CarRental\Core\bin\Debug\netstandard2.0\Core.dll
+C:\CarRental\CarRental\Core\bin\Debug\netstandard2.0\Core.pdb
+C:\CarRental\CarRental\Core\obj\Debug\netstandard2.0\Core.csprojAssemblyReference.cache
+C:\CarRental\CarRental\Core\obj\Debug\netstandard2.0\Core.AssemblyInfoInputs.cache
+C:\CarRental\CarRental\Core\obj\Debug\netstandard2.0\Core.AssemblyInfo.cs
+C:\CarRental\CarRental\Core\obj\Debug\netstandard2.0\Core.csproj.CoreCompileInputs.cache
+C:\CarRental\CarRental\Core\obj\Debug\netstandard2.0\Core.dll
+C:\CarRental\CarRental\Core\obj\Debug\netstandard2.0\Core.pdb

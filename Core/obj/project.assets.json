@@ -6205,11 +6205,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\ReCapProject\\Core\\Core.csproj",
+      "projectUniqueName": "C:\\CarRental\\CarRental\\Core\\Core.csproj",
       "projectName": "Core",
-      "projectPath": "C:\\ReCapProject\\Core\\Core.csproj",
+      "projectPath": "C:\\CarRental\\CarRental\\Core\\Core.csproj",
       "packagesPath": "C:\\Users\\90533\\.nuget\\packages\\",
-      "outputPath": "C:\\ReCapProject\\Core\\obj\\",
+      "outputPath": "C:\\CarRental\\CarRental\\Core\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\90533\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -6259,7 +6259,7 @@
         ],
         "assetTargetFallback": true,
         "warn": true,
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.102\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.103\\RuntimeIdentifierGraph.json"
       }
     }
   }

@@ -6262,11 +6262,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\ReCapProject\\Business\\Business.csproj",
+      "projectUniqueName": "C:\\CarRental\\CarRental\\Business\\Business.csproj",
       "projectName": "Business",
-      "projectPath": "C:\\ReCapProject\\Business\\Business.csproj",
+      "projectPath": "C:\\CarRental\\CarRental\\Business\\Business.csproj",
       "packagesPath": "C:\\Users\\90533\\.nuget\\packages\\",
-      "outputPath": "C:\\ReCapProject\\Business\\obj\\",
+      "outputPath": "C:\\CarRental\\CarRental\\Business\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\90533\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -6283,11 +6283,11 @@
         "netstandard2.0": {
           "targetAlias": "netstandard2.0",
           "projectReferences": {
-            "C:\\ReCapProject\\DataAccess\\DataAccess.csproj": {
-              "projectPath": "C:\\ReCapProject\\DataAccess\\DataAccess.csproj"
+            "C:\\CarRental\\CarRental\\DataAccess\\DataAccess.csproj": {
+              "projectPath": "C:\\CarRental\\CarRental\\DataAccess\\DataAccess.csproj"
             },
-            "C:\\ReCapProject\\Entities\\Entities.csproj": {
-              "projectPath": "C:\\ReCapProject\\Entities\\Entities.csproj"
+            "C:\\CarRental\\CarRental\\Entities\\Entities.csproj": {
+              "projectPath": "C:\\CarRental\\CarRental\\Entities\\Entities.csproj"
             }
           }
         }
@@ -6319,7 +6319,7 @@
         ],
         "assetTargetFallback": true,
         "warn": true,
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.102\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.103\\RuntimeIdentifierGraph.json"
       }
     }
   }

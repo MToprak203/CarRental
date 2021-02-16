@@ -9,9 +9,8 @@ namespace Business.Concrete
 {
     public class ColorManager : CrudManager<Color>, IColorService
     {
-        public ColorManager(IColorDal colorDal)
+        public ColorManager(IColorDal colorDal) : base(colorDal)
         {
-            _entityDal = colorDal;
         }
 
         
