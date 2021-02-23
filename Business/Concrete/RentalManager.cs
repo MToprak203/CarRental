@@ -1,5 +1,7 @@
 ﻿using Business.Abstract;
 using Business.Constants;
+using Business.ValidationRules.FluentValidation;
+using Core.Aspects.Autofac.Validation;
 using Core.Utilities.Results.Abstract;
 using Core.Utilities.Results.Concrete;
 using DataAccess.Abstract;
@@ -19,13 +21,9 @@ namespace Business.Concrete
             _rentalDal = rentalDal;
         }
 
+        [ValidationAspect(typeof(RentalValidator))]
         public override IResult Add(Rental rental)
         {
-            var testRental = _entityDal.Get(r => r.CarId == rental.CarId);
-            if(testRental != null && testRental.ReturnDate == null)
-            {
-                return new ErrorDataResult<Rental>(rental, Messages<Rental>.Unsuccessfull + " -> " + Messages<Car>.NotAvaible);
-            }
             _entityDal.Add(rental);
             return new SuccessfullResult(Messages<Rental>.Added);
         }

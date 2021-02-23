@@ -12,7 +12,5 @@ namespace Business.Concrete
         public ColorManager(IColorDal colorDal) : base(colorDal)
         {
         }
-
-        
     }
 }
