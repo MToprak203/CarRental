@@ -5,7 +5,7 @@ using System.Text;
 
 namespace Entities.Abstract
 {
-    public abstract class IProperties : IEntity
+    public abstract class IProperty : IEntity
     {
         public int Id { get; set; }
         public string Name { get; set; }

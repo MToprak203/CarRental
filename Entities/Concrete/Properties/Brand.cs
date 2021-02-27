@@ -5,7 +5,7 @@ using System.Text;
 
 namespace Entities.Concrete.Properties
 {
-    public class Brand : IProperties
+    public class Brand : IProperty
     {
     }
 }
